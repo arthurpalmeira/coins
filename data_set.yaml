@@ -1,6 +1,6 @@
-train: /content/yolov5/identcoins/Images/train # train images 
-val: /content/yolov5/identcoins/Images/test  # val images 
-test: /content/yolov5/identcoins/Images/val  # test 
+train: /content/yolov5/coins/Images/train # train images 
+val: /content/yolov5/coins/Images/val  # val images 
+test: /content/yolov5/coins/Images/test  # test 
 # Classes
 nc: 5  # number of classes
 names: ['10','05','25','50','100']  # class names
